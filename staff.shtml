@@ -1,0 +1,4 @@
+<!--#set var="title" value="Staff" -->
+<!--#include file="header.shtml"-->
+<h2>Staff</h2>
+<!--#include file="footer.shtml"-->

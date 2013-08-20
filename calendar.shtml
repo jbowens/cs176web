@@ -1,0 +1,4 @@
+<!--#set var="title" value="Calendar" -->
+<!--#include file="header.shtml"-->
+<h2>Calendar</h2>
+<!--#include file="footer.shtml"-->

@@ -1,0 +1,78 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 1.1em;
+}
+
+#header {
+    margin: 0;
+    padding: 8em 0 8em 8em;
+    background: #184555 url('../imgs/sync2.png') no-repeat left top;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    border-bottom: 1em #333 solid;
+    min-width: 1000px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Antic Slab';
+}
+
+h2 {
+    font-size: 2em;
+}
+
+#header h1 {
+    font-family: 'Antic Slab';
+    font-size: 3.8em;
+    color: #FFF;
+    text-shadow: #000 2px 2px 2px;
+    margin: 0;
+    padding: 0;
+}
+
+ul#navigation {
+    margin: 2em 0 0 0;
+    padding: 0;
+}
+
+ul#navigation li {
+    display: inline;
+    margin: 1em 2em 1em 0;
+    font-size: 1.2em;
+}
+
+ul#navigation a {
+    color: #C9E7F2;
+    text-shadow: #000 1px 1px 1px;
+    font-family: 'Antic Slab';
+    text-decoration: none;
+}
+
+ul#navigation a:hover {
+    color: #FFF;
+    text-shadow: #000 3px 3px 3px;
+}
+
+#content {
+    margin: 2em;
+    font-size: 1.2em;
+    font-family: Georgia, serif;
+}
+
+#meeting-place {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.announcement {
+    margin: 1em;
+    padding: 1em;
+    background: #cde5e6;
+}
+
+.announcement .when {
+    font-weight: bold;
+}

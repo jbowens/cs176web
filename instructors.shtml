@@ -1,0 +1,4 @@
+<!--#set var="title" value="For Instructors" -->
+<!--#include file="header.shtml"-->
+<h2>For Instructors</h2>
+<!--#include file="footer.shtml"-->

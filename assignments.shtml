@@ -1,0 +1,4 @@
+<!--#set var="title" value="Assignments" -->
+<!--#include file="header.shtml"-->
+<h2>Assignments</h2>
+<!--#include file="footer.shtml"-->

@@ -1,0 +1,4 @@
+<!--#set var="title" value="Lectures" -->
+<!--#include file="header.shtml"-->
+<h2>Lectures</h2>
+<!--#include file="footer.shtml"-->

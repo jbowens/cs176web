@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CS176 &ndash; <!--#echo var="title" --></title>
+        <link href='http://fonts.googleapis.com/css?family=Antic+Slab' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="css/global.css" />
+    </head>
+    <body>
+        <div id="page">
+            <div id="header">
+                <h1>CS176: Multiprocessor Synchronization</h1>
+                <ul id="navigation">
+                    <li><a href=".">Home</a></li>
+                    <li><a href="course_information.shtml">Course Information</a></li>
+                    <li><a href="calendar.shtml">Calendar</a></li>
+                    <li><a href="lectures.shtml">Lectures</a></li>
+                    <li><a href="assignments.shtml">Assignments</a></li>
+                    <li><a href="staff.shtml">Staff</a></li>
+                    <li><a href="instructors.shtml">For Instructors</a></li>
+                </ul>
+            </div>
+            <div id="page-content">
+                <div id="content">
