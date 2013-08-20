@@ -1,4 +1,7 @@
 <!--#set var="title" value="For Instructors" -->
 <!--#include file="header.shtml"-->
 <h2>For Instructors</h2>
+
+<p>A complete set of lecture slides and sample code is available at the textbook's <a href="http://www.elsevierdirect.com/v2/companion.jsp?ISBN=9780123973375">companion page</a>.</p>
+
 <!--#include file="footer.shtml"-->

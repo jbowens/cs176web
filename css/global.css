@@ -80,3 +80,7 @@ ul#navigation a:hover {
 #calendar-cont {
     text-align: center;
 }
+
+p {
+    font-weight: lighter;
+}
