@@ -1,4 +1,16 @@
 <!--#set var="title" value="Calendar" -->
 <!--#include file="header.shtml"-->
 <h2>Calendar</h2>
+
+<p>This calendar will be kept up to date with office hours, exams, etc. Changes in hours will appear on this calendar, but will not
+appear on the staff page.</p>
+
+<div id="calendar-cont">
+    <iframe
+         src="http://www.google.com/calendar/embed?src=74f4qkcohup54thnbnv7tiiess%40group.calendar.google.com&amp;ctz=America/New_York"
+         style='border-bottom-width:0in;border-left-width:0in;border-right-width:0in;border-top-width:0in'
+         width="800" height="640" frameborder="0" scrolling="no">
+    </iframe>
+</div>
+
 <!--#include file="footer.shtml"-->

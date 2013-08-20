@@ -26,7 +26,7 @@ h2 {
 
 #header h1 {
     font-family: 'Antic Slab';
-    font-size: 3.8em;
+    font-size: 3.5em;
     color: #FFF;
     text-shadow: #000 2px 2px 2px;
     margin: 0;
@@ -75,4 +75,8 @@ ul#navigation a:hover {
 
 .announcement .when {
     font-weight: bold;
+}
+
+#calendar-cont {
+    text-align: center;
 }
