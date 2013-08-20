@@ -4,6 +4,14 @@ body {
     font-size: 1.1em;
 }
 
+a {
+    color: rgb(27, 82, 165);
+}
+
+a:hover {
+    color: rgb(84, 133, 207);
+}
+
 #header {
     margin: 0;
     padding: 8em 0 8em 8em;
@@ -83,4 +91,18 @@ ul#navigation a:hover {
 
 p {
     font-weight: lighter;
+}
+
+table#assignments {
+    width: 800px;
+    margin: 0 auto;
+}
+
+table#assignments thead {
+    background: #EEE;
+}
+
+table#assignments th,
+table#assignments td {
+    padding: 0.5em;
 }
