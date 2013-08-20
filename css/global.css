@@ -4,6 +4,10 @@ body {
     font-size: 1.1em;
 }
 
+.clearfix {
+    clear: both;
+}
+
 a {
     color: rgb(27, 82, 165);
 }
@@ -106,6 +110,16 @@ table#assignments thead {
 table#assignments th,
 table#assignments td {
     padding: 0.5em;
+}
+
+.textbook {
+    margin: 0 1em 1em 0;
+    float: left;
+}
+
+.processor {
+    margin: 0 0 1em 1em;
+    float: right;
 }
 
 ol#handin-steps li {

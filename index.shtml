@@ -2,9 +2,13 @@
 <!--#include file="header.shtml"-->
 <h2>Welcome to CS176</h2>
 
-<p>This course examines the theory and practice of multiprocessor synchronization. Subjects covered include multiprocessor architecture, mutual exclusion, wait-free and lock-free synchronization, spin locks, monitors, load balancing, concurrent data structures, and transactional synchronization.</p>
+<div>
+    <img class="processor" src="imgs/processor.png" alt="A processor" width="262" height="181" />
+    <p>This course examines the theory and practice of multiprocessor synchronization. Subjects covered include multiprocessor architecture, mutual exclusion, wait-free and lock-free synchronization, spin locks, monitors, load balancing, concurrent data structures, and transactional synchronization.</p>
 
-<div id="meeting-place">CS176 meets Tuesdays and Thursdays, from 1:00 pm to 2:20 pm (J Hour) in CIT 368.</div>
+    <div id="meeting-place">CS176 meets Tuesdays and Thursdays, from 1:00 pm to 2:20 pm (J Hour) in CIT 368.</div>
+    <div class="clearfix"></div>
+</div>
 
 <h2>News</h2>
 

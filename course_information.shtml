@@ -1,5 +1,20 @@
 <!--#set var="title" value="Course Information" -->
 <!--#include file="header.shtml"-->
+
+<h2>Why Multiprocessor Programming?</h2>
+
+<div>
+    <img class="textbook" src="imgs/textbook.jpg" alt="The Art of Multiprocessor Programming Textbook Cover" width="250" height="310" />
+
+    <p>The computer industry is undergoing a paradigm shift. Chip manufacturers are shifting development resources away from single-processor chips to a new generation of multi-processor chips known as multicores.</p>
+
+    <p>This fundamental change in our core computing architecture will require a fundamental change in how we program. The art of multiprocessor programming, currently mastered by few, is more complex than programming uniprocessor machines, and requires an understanding of new computational principles, algorithms, and programming tools.</p>
+
+    <p>Concurrent computation on uniprocessor and multiprocessor architectures have many aspects in common. The key issue that distinguishes multiprocessor programming from concurrent uniprocessor programming is the need to understand how concurrent computations on separate processors coordinate with one another, a broad and intricate problem area we call multiprocessor synchronization.</p>
+
+    <p>Our textbook is <a href="http://www.amazon.com/Art-Multiprocessor-Programming-Revised-Reprint/dp/0123973376/ref=sr_1_3?s=books&ie=UTF8&qid=1344803864&sr=1-3">The Art of Multiprocesor Programming, Revised Print</a>, by Maurice Herlihy and Nir Shavit. Students will be able to provide comments and feedback on it using <a href="http://nb.mit.edu/">MIT's NB</a>.</p>
+</div>
+
 <h2>Course Information</h2>
 
 <p>The course will approach multiprocessor programming from two complementary directions. In the first part of the course, we focus on foundations: what do our programs and machines need to provide in order to ensure that concurrent programs do what we expect. We use an idealized model of computation in which multiple concurrent threads manipulate a set of shared objects. This model is essentially the model presented by standard Java&trade; or C++ threads packages.</p>
