@@ -123,3 +123,20 @@ span.terminal {
 .computer-word {
     font-family: monospace;
 }
+
+.staff {
+    margin: 3em;
+    font-size: 0.8em;
+}
+
+h4 {
+    margin: 0;
+}
+
+.staff h4 {
+    font-size: 1.5em;
+}
+
+.staff .office-hours {
+    font-size: 0.9em;
+}

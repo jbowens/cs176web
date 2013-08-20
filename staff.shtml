@@ -3,5 +3,67 @@
 <h2>Course staff</h2>
 <h3>Instructor</h3>
 
+<div class="staff">
+    <h4 class="name">
+        <a href="http://www.cs.brown.edu/people/mph">Maurice Herlihy</a>
+    </h4>
+    <div class="position">Professor</div>
+    <div class="office-hours">
+        Hours by appointment
+    </div>
+</div>
+
 <h3>Teaching Assistants</h3>
+
+<div class="staff">
+    <h4 class="name">
+        <a href="http://www.cs.brown.edu/people/jbowens">Jackson Owens</a>
+    </h4>
+    <div class="position">Head TA</div>
+    <div class="office-hours">
+        Hours TBD
+    </div>
+</div>
+
+<div class="staff">
+    <h4 class="name">
+        <a href="http://www.cs.brown.edu/people/zhiyu">Zhiyu Liu</a>
+    </h4>
+    <div class="position">Grad TA</div>
+    <div class="office-hours">
+        Hours TBD
+    </div>
+</div>
+
+<div class="staff">
+    <h4 class="name">
+        <a href="http://www.cs.brown.edu/people/atutino">Alec Tutino</a>
+    </h4>
+    <div class="position">UTA</div>
+    <div class="office-hours">
+        Hours TBD
+    </div>
+</div>
+
+<div class="staff">
+    <h4 class="name">
+        <a href="http://www.cs.brown.edu/people/lelberty">Liam Elberty</a>
+    </h4>
+    <div class="position">UTA</div>
+    <div class="office-hours">
+        Hours TBD
+    </div>
+</div>
+
+<div class="staff">
+    <h4 class="name">
+        <a href="http://www.cs.brown.edu/people/zolstein">Zach Olstein</a>
+    </h4>
+    <div class="position">UTA</div>
+    <div class="office-hours">
+        Hours TBD
+    </div>
+</div>
+
+
 <!--#include file="footer.shtml"-->
