@@ -1,4 +1,7 @@
-<!--#set var="title" value="Staff" -->
+<!--#set var="title" value="Course staff" -->
 <!--#include file="header.shtml"-->
-<h2>Staff</h2>
+<h2>Course staff</h2>
+<h3>Instructor</h3>
+
+<h3>Teaching Assistants</h3>
 <!--#include file="footer.shtml"-->

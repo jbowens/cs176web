@@ -2,7 +2,7 @@
 <!--#include file="header.shtml"-->
 <h2>Assignments</h2>
 
-<p>Unless otherwise specified, assignments are due at 12:59pm on their due date, all answers must be typed and saved in pdf format, and <a href="handin_instructions.html">these instructions</a> should be followed to hand in your homework.</p>
+<p>Unless otherwise specified, assignments are due at 12:59pm on their due date, all answers must be typed and saved in pdf format, and <a href="handin_instructions.shtml">these instructions</a> should be followed to hand in your homework.</p>
 
 <table cellspacing="0" cellpadding="0" id="assignments">
     <thead>
