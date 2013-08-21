@@ -9,12 +9,13 @@
     <li>Hit enter to run the script.</li>
     <li>You should then receive an email in your CS email account (e.g. <span class="computer-word">jcarrber@cs.brown.edu</span>), notifying you that you've successfully handed in the assignment. If you do not, you should double check the terminal output to make sure the script was run successfully.</li>
 </ol>
-<p>If you get this error in part of your terminal output:
-<div>
-    <pre class="terminal">Error was:
-    Warning: You are not in the student group - dropping privileges</pre>
-</div>
-Check that you are in the <span class="computer-word">cs176student</span> group by running <span class="terminal">groups</span> in a terminal and checking the output. If you are in the group, log out, then log back in, and try running the handin script again.
+<p>If you get this error in part of your terminal output:</p>
+
+<pre class="terminal">Error was:
+    Warning: You are not in the student group - dropping privileges
+</pre>
+    
+<p>Check that you are in the <span class="computer-word">cs176student</span> group by running <span class="terminal">groups</span> in a terminal and checking the output. If you are in the group, log out, then log back in, and try running the handin script again.
 </p>
 
 <p>If you run into trouble not mentioned here while running this script, see a TA on hours (all hours are posted on the calendar) or email <span class="computer-word">cs176tas@cs.brown.edu</span>.  If for some reason you are unable to run the script successfully, and you are unable to reach the TAs, and you have only a few minutes left till the deadline, you may email your solution to <span class="computer-word">cs176tas@cs.brown.edu</span>. However, this should always be your <strong>last resort</strong>; we reserve the right to deduct points for this kind of handin.</p>
