@@ -20,7 +20,7 @@
 <h3>Teaching Assistants</h3>
 
 <div class="staff">
-    <img src="imgs/ivybridge.jpg" width="150" height="150" class="portrait" />
+    <img src="imgs/ivybridge.jpg" width="150" height="150" class="portrait" data-hoverimg="imgs/jbowens.png" />
     <div class="info">
         <h4 class="name">
             <a href="http://www.cs.brown.edu/people/jbowens">Jackson Owens</a>
@@ -34,7 +34,7 @@
 </div>
 
 <div class="staff">
-    <img src="imgs/a5.png" width="150" height="150" class="portrait" />
+    <img src="imgs/a5.png" width="150" height="150" class="portrait" data-hoverimg="imgs/zhiyu.gif" />
     <div class="info">
         <h4 class="name">
             <a href="http://www.cs.brown.edu/people/zhiyu">Zhiyu Liu</a>
