@@ -16,6 +16,10 @@ a:hover {
     color: rgb(84, 133, 207);
 }
 
+#page {
+    min-width: 1000px;
+}
+
 #header {
     margin: 0;
     padding: 8em 0 8em 8em;
@@ -25,7 +29,6 @@ a:hover {
     -moz-background-size: cover;
     -o-background-size: cover;
     border-bottom: 1em #333 solid;
-    min-width: 1000px;
 }
 
 h1, h2, h3, h4, h5, h6 {
