@@ -4,7 +4,7 @@
 <h3>Instructor</h3>
 
 <div class="staff">
-    <img src="imgs/haswell_close.png" width="150" height="150" class="portrait" />
+    <img src="imgs/haswell_close.png" width="150" height="150" class="portrait" data-hoverimg="imgs/mph.png" />
     <div class="info">
         <h4 class="name">
             <a href="http://www.cs.brown.edu/people/mph">Maurice Herlihy</a>
